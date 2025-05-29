@@ -1,5 +1,6 @@
 # titanic-dataset
 **#task1**
+
 read csv file using pandas,
 
 As "survival was correLated with age" , imputed the missing value of age with respective category of survival or not; also converted the data type from float to integer 
@@ -13,6 +14,7 @@ excluded outliers from Age column
 ploted boxplot 
 
 **#Task 2**
+
 imported titanic dataset file as proceeseed after task1
 
 plotted histogram for suvived age groups and not suviving age groups to understands the which age group was most likely to suvive 
